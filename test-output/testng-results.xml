@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Test runner" duration-ms="44768" started-at="2022-05-08T20:44:31Z" finished-at="2022-05-08T20:45:16Z">
+    <groups>
+    </groups>
+    <test name="test" duration-ms="44768" started-at="2022-05-08T20:44:31Z" finished-at="2022-05-08T20:45:16Z">
+      <class name="TestCases.WebTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:TestCases.WebTest@47f37ef1]" name="setUp" is-config="true" duration-ms="10873" started-at="2022-05-08T22:44:31Z" finished-at="2022-05-08T22:44:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="userSignInTest()[pri:0, instance:TestCases.WebTest@47f37ef1]" name="userSignInTest" duration-ms="10963" started-at="2022-05-08T22:44:42Z" finished-at="2022-05-08T22:44:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userSignInTest -->
+        <test-method status="PASS" signature="userLogInTest()[pri:0, instance:TestCases.WebTest@47f37ef1]" name="userLogInTest" duration-ms="4667" started-at="2022-05-08T22:44:53Z" finished-at="2022-05-08T22:44:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userLogInTest -->
+        <test-method status="PASS" signature="checkoutTest()[pri:0, instance:TestCases.WebTest@47f37ef1]" name="checkoutTest" duration-ms="17496" started-at="2022-05-08T22:44:57Z" finished-at="2022-05-08T22:45:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkoutTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestCases.WebTest@47f37ef1]" name="tearDown" is-config="true" duration-ms="756" started-at="2022-05-08T22:45:15Z" finished-at="2022-05-08T22:45:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestCases.WebTest -->
+    </test> <!-- test -->
+  </suite> <!-- Test runner -->
+</testng-results>
